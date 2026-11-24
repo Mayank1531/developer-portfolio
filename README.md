@@ -1,6 +1,6 @@
-# Sai Rudra Sharma — Developer Portfolio
+# Mayank Sharma - Developer Portfolio
 
-> B.Tech CSE Student | K.R. Mangalam University, Gurugram | Batch 2025-29
+> B.Tech CSE Student | K.R. Mangalam University, Gurugram | Batch 2024-28
 
 ---
 
@@ -8,23 +8,24 @@
 
 | Repository | Description | Tech Stack | Status |
 |------------|-------------|------------|--------|
-| [cse103-lab-LAB3](https://github.com/sai-2008411/cse103-lab-LAB3) | CSE103 lab — Git, APIs, Shell scripting | Git, Python, Bash | Active |
-| [developer-portfolio](https://github.com/sai-2008411/developer-portfolio) | This portfolio index | Markdown | Active |
+| [Mayank_The-Bottom-G](https://github.com/Mayank1531/Mayank_The-Bottom-G) | CSE103 lab: Git, APIs, Shell scripting | Git, Python, Bash | Active |
+| [developer-portfolio](https://github.com/Mayank1531/developer-portfolio) | Personal portfolio index | Markdown | Active |
 
 ---
 
 ## Current Skills
 
-Python       [█████░░░░░] 50%
-Linux / Bash [████░░░░░░] 40%
-Git / GitHub [█████░░░░░] 50%
+- Python (Beginner)
+- Linux / Bash
+- Git / GitHub
+- Markdown
 
 ---
 
 ## Learning Roadmap
 
-See [LEARNING_ROADMAP.md](./LEARNING_ROADMAP.md) for my full 6-semester plan.
+See [LEARNING_ROADMAP.md](./LEARNING_ROADMAP.md) for my learning plan.
 
 ## Progress Tracker
 
-See [PROGRESS.md](./PROGRESS.md) for coding platform progress.
+See [PROGRESS.md](./PROGRESS.md) for coding progress.
